@@ -1,0 +1,1 @@
+https://api.aladhan.com/v1/timingsByCity/27-04-2024?city=Cairo&country=Egypt&method=8      api
